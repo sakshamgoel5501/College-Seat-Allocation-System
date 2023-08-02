@@ -1,0 +1,153 @@
+NIT Surathkal
+NITK Computer Science
+1
+NITK Information Technology
+1
+NITK Mechanical
+1
+
+NIT Agartala
+NITA Computer Science
+1
+NITA Information Technology
+1
+NITA Mechanical
+1
+NITA Chemical
+1
+
+NIT Warangal
+NITW Computer Science
+1
+NITW Information Technology
+1
+NITW Mechanical
+1
+NITW Civil
+1
+
+NIT Tiruchirapalli
+NITT Computer Science
+1
+NITT Information Technology
+1
+NITT Mechanical
+1
+
+NIT Rourkela
+NITR Computer Science
+1
+NITR Information Technology
+1
+NITR Mechanical
+1
+NITR Chemical
+1
+
+NIT Calicut
+NITC Computer Science
+1
+NITC Information Technology
+1
+NITC Mechanical
+1
+NITC Electrical
+1
+
+NIT Jaipur
+MNIT Computer Science
+1
+MNIT Information Technology
+1
+MNIT Electronics
+1
+MNIT Metallurgy
+1
+
+NIT Allahabad
+MNNIT Computer Science
+1
+MNNIT Electronics
+1
+MNNIT Mechanical
+1
+MNNIT Aeronotical
+1
+
+NIT Bhopal
+MANIT Computer Science
+1
+MANIT Information Technology
+1
+MANIT Mechanical
+1
+MANIT Civil
+1
+
+NIT Nagpur
+VNIT Computer Science
+1
+VNIT Electrical
+1
+VNIT Mechanical
+1
+VNIT Electronics
+1
+
+NIT Jalandhar
+NITJ Computer Science
+1
+NITJ Information Technology
+1
+NITJ Mechanical
+1
+
+NIT Silchar
+NITS Computer Science
+1
+NITS Electrical
+1
+NITS Mechanical
+1
+
+NIT Durgapur
+NITDGP Computer Science
+1
+NITDGP Civil
+1
+NITDGP Mechanical
+1
+
+NIT Kurukshetra
+NITKKR Computer Science
+1
+NITKKR Information Technology
+1
+NITKKR Mechanical
+1
+
+NIT Hamirpur
+NITH Computer Science
+1
+NITH Information Technology
+1
+NITH Electronics
+1
+
+NIT Raipur
+NITRR Computer Science
+1
+NITRR Electrical
+1
+NITRR Electronics
+1
+NITRR Civil
+1
+
+NIT Jamshedpur
+NITJSR Computer Science
+1
+NITJSR Information Technology
+1
+NITJSR Mechanical
+1

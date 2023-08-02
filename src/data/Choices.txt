@@ -1,0 +1,679 @@
+1
+NIT Warangal
+NITW Computer Science
+NIT Warangal
+NITW Information Technology
+NIT Surathkal
+NITK Computer Science
+NIT Surathkal
+NITK Information Technology
+NIT Tiruchirapalli
+NITT Computer Science
+NIT Tiruchirapalli
+NITT Information Technology
+NIT Allahabad
+MNNIT Computer Science
+NIT Allahabad
+MNNIT Electronics
+NIT Jaipur 
+MNIT Computer Science
+NIT Calicut
+NITC Computer Science
+NIT Bhopal
+MANIT Computer Science
+
+2
+NIT Warangal
+NITW Computer Science
+NIT Surathkal
+NITK Computer Science
+NIT Warangal
+NITW Information Technology
+NIT Surathkal
+NITK Information Technology
+NIT Tiruchirapalli
+NITT Computer Science
+NIT Tiruchirapalli
+NITT Information Technology
+NIT Allahabad
+MNNIT Computer Science
+NIT Allahabad
+MNNIT Electronics
+NIT Jaipur 
+MNIT Computer Science
+NIT Calicut
+NITC Computer Science
+NIT Bhopal
+MANIT Computer Science
+NIT Surathkal
+NITK Mechanical
+
+3
+NIT Tiruchirapalli
+NITT Computer Science
+NIT Warangal
+NITW Computer Science
+NIT Warangal
+NITW Information Technology
+NIT Surathkal
+NITK Computer Science
+NIT Surathkal
+NITK Information Technology
+NIT Jaipur 
+MNIT Computer Science
+NIT Calicut
+NITC Computer Science
+NIT Bhopal
+MANIT Computer Science
+NIT Surathkal
+NITK Mechanical
+NIT Tiruchirapalli
+NITT Mechanical
+
+4
+NIT Tiruchirapalli
+NITT Computer Science
+NIT Warangal
+NITW Computer Science
+NIT Surathkal
+NITK Computer Science
+NIT Jaipur 
+MNIT Computer Science
+NIT Allahabad
+MNNIT Computer Science
+NIT Calicut
+NITC Computer Science
+NIT Bhopal
+MANIT Computer Science
+NIT Surathkal
+NITK Mechanical
+NIT Tiruchirapalli
+NITT Mechanical
+
+5
+NIT Tiruchirapalli
+NITT Computer Science
+NIT Warangal
+NITW Computer Science
+NIT Surathkal
+NITK Computer Science
+NIT Jaipur 
+MNIT Computer Science
+NIT Allahabad
+MNNIT Computer Science
+NIT Calicut
+NITC Computer Science
+NIT Bhopal
+MANIT Computer Science
+NIT Silchar
+NITS Computer Science
+NIT Silchar
+NITS Electrical
+NIT Nagpur
+VNIT Computer Science
+NIT Jaipur 
+MNIT Electronics
+NIT Jaipur
+MNIT Metallurgy
+
+6
+NIT Warangal
+NITW Computer Science
+NIT Warangal
+NITW Information Technology
+NIT Surathkal
+NITK Computer Science
+NIT Surathkal
+NITK Information Technology
+NIT Tiruchirapalli
+NITT Computer Science
+NIT Tiruchirapalli
+NITT Information Technology
+NIT Tiruchirapalli
+NITT Mechanical
+NIT Allahabad
+MNNIT Computer Science
+NIT Jaipur
+MNIT Computer Science
+NIT Nagpur
+VNIT Computer Science
+NIT Warangal
+NITW Mechanical
+NIT Rourkela 
+NITR Computer Science
+NIT Rourkela
+NITR Information Technology
+
+7
+NIT Tiruchirapalli
+NITT Computer Science
+NIT Warangal
+NITW Computer Science
+NIT Surathkal
+NITK Computer Science
+NIT Jaipur 
+MNIT Computer Science
+NIT Allahabad
+MNNIT Computer Science
+NIT Calicut
+NITC Computer Science
+NIT Bhopal
+MANIT Computer Science
+NIT Rourkela
+NITR Computer Science
+NIT Nagpur
+VNIT Computer Science
+NIT Jalandhar 
+NITJ Computer Science
+NIT Silchar
+NITS Computer Science
+NIT Tiruchirapalli
+NITT Information Technology
+NIT Warangal
+NITW Information Technology
+NIT Surathkal
+NITK Information Technology
+NIT Raipur
+NITRR Computer Science
+NIT Rourkela
+NITR Information Technology
+
+8
+NIT Tiruchirapalli
+NITT Computer Science
+NIT Warangal
+NITW Computer Science
+NIT Surathkal
+NITK Computer Science
+NIT Jaipur 
+MNIT Computer Science
+NIT Allahabad
+MNNIT Computer Science
+NIT Calicut
+NITC Computer Science
+NIT Rourkela
+NITR Computer Science
+NIT Bhopal
+MANIT Computer Science
+NIT Nagpur
+VNIT Computer Science
+NIT Raipur
+NITRR Computer Science
+NIT Kurukshetra
+NITKKR Computer Science
+NIT Jamshedpur
+NITJSR Computer Science
+NIT Nagpur
+VNIT Electrical
+NIT Tiruchirapalli
+NITT Mechanical
+NIT Rourkela
+NITR Chemical
+
+9
+NIT Warangal
+NITW Computer Science
+NIT Surathkal
+NITK Computer Science
+NIT Jaipur 
+MNIT Computer Science
+NIT Allahabad
+MNNIT Computer Science
+NIT Calicut
+NITC Computer Science
+NIT Silchar
+NITS Computer Science
+NIT Tiruchirapalli
+NITT Information Technology
+NIT Warangal
+NITW Information Technology
+NIT Surathkal
+NITK Information Technology
+NIT Raipur
+NITRR Computer Science
+NIT Rourkela
+NITR Information Technology
+NIT Nagpur
+VNIT Electrical
+NIT Tiruchirapalli
+NITT Mechanical
+NIT Rourkela
+NITR Chemical
+NIT Surathkal
+NITK Mechanical
+NIT Nagpur
+VNIT Computer Science
+
+10
+NIT Surathkal
+NITK Computer Science
+NIT Warangal
+NITW Information Technology
+NIT Surathkal
+NITK Information Technology
+NIT Tiruchirapalli
+NITT Computer Science
+NIT Tiruchirapalli
+NITT Information Technology
+NIT Allahabad
+MNNIT Computer Science
+NIT Allahabad
+MNNIT Electronics
+NIT Tiruchirapalli
+NITT Mechanical
+NIT Rourkela
+NITR Chemical
+NIT Surathkal
+NITK Mechanical
+NIT Nagpur
+VNIT Computer Science
+NIT Bhopal
+MANIT Mechanical
+NIT Allahabad
+MNNIT Aeronotical
+NIT Hamirpur
+NITH Computer Science
+NIT Durgapur
+NITDGP Computer Science
+
+11
+NIT Tiruchirapalli
+NITT Computer Science
+NIT Warangal
+NITW Computer Science
+NIT Surathkal
+NITK Computer Science
+NIT Jaipur 
+MNIT Computer Science
+NIT Allahabad
+MNNIT Computer Science
+NIT Calicut
+NITC Computer Science
+NIT Silchar
+NITS Computer Science
+NIT Tiruchirapalli
+NITT Information Technology
+NIT Warangal
+NITW Information Technology
+NIT Surathkal
+NITK Information Technology
+NIT Tiruchirapalli
+NITT Mechanical
+NIT Rourkela
+NITR Chemical
+NIT Surathkal
+NITK Mechanical
+NIT Nagpur
+VNIT Computer Science
+NIT Bhopal
+MANIT Mechanical
+NIT Allahabad
+MNNIT Aeronotical
+NIT Agartala
+NITA Computer Science
+NIT Agartala
+NITA Mechanical
+
+12
+NIT Allahabad
+MNNIT Computer Science
+NIT Tiruchirapalli
+NITT Computer Science
+NIT Warangal
+NITW Computer Science
+NIT Surathkal
+NITK Computer Science
+NIT Jaipur 
+MNIT Computer Science
+NIT Warangal
+NITW Information Technology
+NIT Surathkal
+NITK Information Technology
+NIT Tiruchirapalli
+NITT Information Technology
+NIT Rourkela
+NITR Computer Science
+NIT Bhopal
+MANIT Computer Science
+NIT Nagpur
+VNIT Computer Science
+NIT Raipur
+NITRR Computer Science
+NIT Kurukshetra
+NITKKR Computer Science
+NIT Jamshedpur
+NITJSR Computer Science
+NIT Nagpur
+VNIT Electrical
+NIT Jamshedpur
+NITJSR Computer Science
+NIT Jalandhar
+NITJ Computer Science
+NIT Jalandhar
+NITJ Mechanical
+NIT Raipur
+NITRR Electrical
+NIT Raipur
+NITRR Civil
+
+13
+NIT Warangal
+NITW Computer Science
+NIT Warangal
+NITW Information Technology
+NIT Surathkal
+NITK Computer Science
+NIT Surathkal
+NITK Information Technology
+NIT Tiruchirapalli
+NITT Computer Science
+NIT Tiruchirapalli
+NITT Information Technology
+NIT Allahabad
+MNNIT Computer Science
+NIT Allahabad
+MNNIT Electronics
+NIT Jaipur 
+MNIT Computer Science
+NIT Calicut
+NITC Computer Science
+NIT Bhopal
+MANIT Computer Science
+NIT Rourkela
+NITR Computer Science
+NIT Bhopal
+MANIT Computer Science
+NIT Nagpur
+VNIT Computer Science
+NIT Raipur
+NITRR Computer Science
+NIT Kurukshetra
+NITKKR Computer Science
+NIT Jamshedpur
+NITJSR Computer Science
+NIT Nagpur
+VNIT Electrical
+NIT Jamshedpur
+NITJSR Computer Science
+NIT Jalandhar
+NITJ Computer Science
+NIT Agartala
+NITA Computer Science
+NIT Jaipur
+MNIT Metallurgy
+NIT Jaipur 
+MNIT Electronics
+NIT Nagpur
+VNIT Electrical
+
+14
+NIT Calicut
+NITC Computer Science
+NIT Surathkal
+NITK Information Technology
+NIT Bhopal
+MANIT Computer Science
+NIT Nagpur
+VNIT Computer Science
+NIT Raipur
+NITRR Computer Science
+NIT Kurukshetra
+NITKKR Computer Science
+NIT Jamshedpur
+NITJSR Computer Science
+NIT Nagpur
+VNIT Electrical
+NIT Jalandhar
+NITJ Computer Science
+NIT Agartala
+NITA Computer Science
+NIT Jaipur
+MNIT Metallurgy
+NIT Jaipur 
+MNIT Electronics
+NIT Nagpur
+VNIT Electrical
+NIT Bhopal
+MANIT Civil
+NIT Hamirpur
+NITH Electronics
+NIT Jamshedpur
+NITJSR Mecahnical
+
+15
+NIT Tiruchirapalli
+NITT Computer Science
+NIT Warangal
+NITW Computer Science
+NIT Surathkal
+NITK Computer Science
+NIT Jaipur 
+MNIT Computer Science
+NIT Allahabad
+MNNIT Computer Science
+NIT Calicut
+NITC Computer Science
+NIT Silchar
+NITS Computer Science
+NIT Tiruchirapalli
+NITT Information Technology
+NIT Warangal
+NITW Information Technology
+NIT Surathkal
+NITK Information Technology
+NIT Tiruchirapalli
+NITT Mechanical
+NIT Rourkela
+NITR Chemical
+NIT Surathkal
+NITK Mechanical
+NIT Nagpur
+VNIT Computer Science
+NIT Bhopal
+MANIT Mechanical
+NIT Allahabad
+MNNIT Aeronotical
+NIT Agartala
+NITA Computer Science
+NIT Jaipur
+MNIT Metallurgy
+
+16
+NIT Warangal
+NITW Computer Science
+NIT Surathkal
+NITK Computer Science
+NIT Warangal
+NITW Information Technology
+NIT Surathkal
+NITK Information Technology
+NIT Tiruchirapalli
+NITT Computer Science
+NIT Tiruchirapalli
+NITT Information Technology
+NIT Allahabad
+MNNIT Computer Science
+NIT Allahabad
+MNNIT Electronics
+NIT Jaipur 
+MNIT Computer Science
+NIT Calicut
+NITC Computer Science
+NIT Bhopal
+MANIT Computer Science
+NIT Jaipur
+MNIT Metallurgy
+NIT Jaipur 
+MNIT Electronics
+NIT Nagpur
+VNIT Electrical
+NIT Bhopal
+MANIT Civil
+NIT Hamirpur
+NITH Electronics
+NIT Jamshepur
+NITJSR Mecahnical
+NIT Raipur
+NITRR Civil
+NIT Jamshedpur
+NITJSR Information Technology
+
+17
+NIT Calicut
+NITC Computer Science
+NIT Surathkal
+NITK Information Technology
+NIT Bhopal
+MANIT Computer Science
+NIT Nagpur
+VNIT Computer Science
+NIT Raipur
+NITRR Computer Science
+NIT Kurukshetra
+NITKKR Computer Science
+NIT Jamshedpur
+NITJSR Computer Science
+NIT Nagpur
+VNIT Electrical
+NIT Jalandhar
+NITJ Computer Science
+NIT Agartala
+NITA Computer Science
+NIT Jamshedpur
+NITJSR Mechanical
+NIT Surathkal
+NITK Mechanical
+NIT Bhopal 
+MANIT Civil
+NIT Jalandhar
+NITJ Mechanical
+NIT Duragpur
+NITDGP Computer Science
+
+18
+NIT Warangal
+NITW Computer Science
+NIT Surathkal
+NITK Computer Science
+NIT Warangal
+NITW Information Technology
+NIT Surathkal
+NITK Information Technology
+NIT Tiruchirapalli
+NITT Computer Science
+NIT Tiruchirapalli
+NITT Information Technology
+NIT Allahabad
+MNNIT Computer Science
+NIT Allahabad
+MNNIT Electronics
+NIT Jaipur 
+MNIT Computer Science
+NIT Calicut
+NITC Computer Science
+NIT Bhopal
+MANIT Computer Science
+NIT Jaipur
+MNIT Metallurgy
+NIT Jaipur 
+MNIT Electronics
+NIT Nagpur
+VNIT Electrical
+NIT Bhopal
+MANIT Civil
+NIT Hamirpur
+NITH Electronics
+NIT Jamshedpur
+NITJSR Mecahnical
+NIT Raipur
+NITRR Civil
+NIT Jamshedpur
+NITJSR Information Technology
+NIT Jalandhar
+NITJ Mechanical
+NIT Duragpur
+NITDGP Computer Science
+
+19
+NIT Kurukshetra
+NITKKR Computer Science
+NIT Tiruchirapalli
+NITT Computer Science
+NIT Warangal
+NITW Computer Science
+NIT Surathkal
+NITK Computer Science
+NIT Jaipur 
+MNIT Computer Science
+NIT Allahabad
+MNNIT Computer Science
+NIT Calicut
+NITC Computer Science
+NIT Silchar
+NITS Computer Science
+NIT Tiruchirapalli
+NITT Information Technology
+NIT Warangal
+NITW Information Technology
+NIT Surathkal
+NITK Information Technology
+NIT Jaipur 
+MNIT Electronics
+NIT Nagpur
+VNIT Electrical
+NIT Bhopal
+MANIT Civil
+NIT Hamirpur
+NITH Electronics
+NIT Jamshepur
+NITJSR Mecahnical
+NIT Raipur
+NITRR Civil
+NIT Jamshedpur
+NITJSR Information Technology
+NIT Jalandhar
+NITJ Mechanical
+NIT Duragpur
+NITDGP Computer Science
+
+20
+NIT Surathkal
+NITK Mechanical
+NIT Agartala
+NITA Chemical
+NIT Agartala
+NITA Mechanical
+NIT Warangal 
+NITW Civil
+NIT Tiruchirapalli
+NITT Mechanical
+NIT Rourkela
+NITR Chemical
+NIT Calicut
+NITC Electrical
+NIT Jaipur 
+MNIT Metallurgy
+NIT Allahabad
+MNNIT Aeronotical
+NIT Bhopal
+MANIT Civil
+NIT Nagpur
+VNIT Electronics
+NIT Jalandhar
+NITJ Mechanical
+NIT Silchar
+NITS Electrical
+NIT Hamirpur
+NITH Electronics
+NIT Kurukshetra
+NITKKR Computer Science
+NIT Tiruchirapalli
+NITT Computer Science
+NIT Warangal
+NITW Computer Science
+NIT Surathkal
+NITK Computer Science
+NIT Jaipur 
+MNIT Computer Science
+NIT Jamshedpur
+NITJSR Mechanical
